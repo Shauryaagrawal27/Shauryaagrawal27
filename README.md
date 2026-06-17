@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shauryaagrawal27
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning OpenGL
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
